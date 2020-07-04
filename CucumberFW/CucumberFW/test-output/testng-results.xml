@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81881" started-at="2020-06-27T20:45:29 IST" finished-at="2020-06-27T20:46:51 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber.runner.Runner_01@396f6598]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="81881" started-at="2020-06-27T20:45:29 IST" finished-at="2020-06-27T20:46:51 IST">
+      <class name="com.cucumber.runner.Runner_01">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.cucumber.runner.Runner_01@396f6598]" name="setUpClass" is-config="true" duration-ms="534" started-at="2020-06-27T20:45:29 IST" finished-at="2020-06-27T20:45:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber.runner.Runner_01@396f6598]" name="feature" duration-ms="80985" started-at="2020-06-27T20:45:30 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-06-27T20:46:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CUCUMBER FRAMEWORK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.cucumber.runner.Runner_01@396f6598]" name="tearDownClass" is-config="true" duration-ms="97" started-at="2020-06-27T20:46:51 IST" finished-at="2020-06-27T20:46:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.cucumber.runner.Runner_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,113 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1238470892,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.reportInitialize(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 4999174724,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.browserInitialize()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Windows Handling",
+        "description": "",
+        "id": "selenium-windows-handling;windows-handling",
+        "after": [
+          {
+            "result": {
+              "duration": 1556485192,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.two()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5780026220,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Navigate to the URL",
+            "match": {
+              "location": "Scenario_02.Navigate_to_the_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5437790332,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click multiple windows button",
+            "match": {
+              "location": "Scenario_02.Click_multiple_windows_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6008319780,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Navigate to child window",
+            "match": {
+              "location": "Scenario_02.Navigate_to_child_window()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3163553848,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "get position of button",
+            "match": {
+              "location": "Scenario_02.get_position_of_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5082318892,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "go to parent window",
+            "match": {
+              "location": "Scenario_02.go_to_parent_window()"
+            },
+            "keyword": "But "
+          }
+        ]
+      }
+    ],
+    "name": "Selenium Windows Handling",
+    "description": "",
+    "id": "selenium-windows-handling",
+    "keyword": "Feature",
+    "uri": "./FeatureFile/WindowsHandling.feature"
+  }
+]

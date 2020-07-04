@@ -1,0 +1,229 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1686608504,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.reportInitialize(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 5339621664,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.browserInitialize()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Input form with validations",
+        "description": "",
+        "id": "cucumber-framework;input-form-with-validations",
+        "after": [
+          {
+            "result": {
+              "duration": 3700060132,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CucumberHooks.two()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5964534476,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Navigate to the URL \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://www.seleniumeasy.com/test/input-form-demo.html",
+                  "offset": 21
+                }
+              ],
+              "location": "Scenario_01.Navigate_to_the_URL(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4383388832,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter the Firstname",
+            "match": {
+              "location": "Scenario_01.Enter_the_Firstname(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Firstname"
+                ],
+                "line": 6
+              },
+              {
+                "cells": [
+                  "Cucumber BDD"
+                ],
+                "line": 7
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4285512740,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter the LastName",
+            "match": {
+              "location": "Scenario_01.And_Enter_the_LastName()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4489714820,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Enter email address",
+            "match": {
+              "location": "Scenario_01.Enter_email_address()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3047650648,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter the phonenumber",
+            "match": {
+              "location": "Scenario_01.Enter_the_phonenumber()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8563420180,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the Address",
+            "match": {
+              "location": "Scenario_01.Enter_the_Address()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5256734188,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the City",
+            "match": {
+              "location": "Scenario_01.Enter_the_City()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8345782244,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Select the state",
+            "match": {
+              "location": "Scenario_01.Select_the_state()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5229795452,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Enter ZipCode",
+            "match": {
+              "location": "Scenario_01.Enter_ZipCode()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5447141604,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Enter domine name",
+            "match": {
+              "location": "Scenario_01.Enter_domine_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3159888808,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Select hosting or not",
+            "match": {
+              "location": "Scenario_01.Select_hosting_or_not()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5356425256,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Enter the description",
+            "match": {
+              "location": "Scenario_01.Enter_the_description()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6433404108,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Click send button",
+            "match": {
+              "location": "Scenario_01.Click_send_button()"
+            },
+            "keyword": "But "
+          }
+        ]
+      }
+    ],
+    "name": "CUCUMBER FRAMEWORK",
+    "description": "",
+    "id": "cucumber-framework",
+    "keyword": "Feature",
+    "uri": "./FeatureFile/CucumberFrameWork.feature"
+  }
+]

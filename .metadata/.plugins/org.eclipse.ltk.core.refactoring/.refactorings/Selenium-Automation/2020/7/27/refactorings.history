@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ESCROW_SelectiveRegressionTestingwithInsprint.xml&apos; to &apos;ESCROW_SelectiveRegressionTestingwithInsprint.xml&apos;&#x0D;&#x0A;- Original project: &apos;Selenium-Automation&apos;&#x0D;&#x0A;- Destination element: &apos;ESCROW_SelectiveRegressionTestingwithInsprint.xml&apos;&#x0D;&#x0A;- Original element: &apos;ESCROW_SelectiveRegressionTestingwithInsprint.xml&apos;" description="Copy file" element1="testsuiteregressionxml/ESCROW_SelectiveRegressionTestingwithInsprint.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593793565657" target="/Selenium-Automation/testsuiteregressionxml/ESCROW_SelectiveRegressionTestingwithInsprint.xml" units="0" version="1.0"/>
+</session>

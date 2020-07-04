@@ -1,0 +1,57 @@
+{
+	"EMP": {
+		"comName": "Virtusa",
+		"cmpLocation": "DLF",
+		"empName": "Dinesh",
+		"empMail": "dineshraja@virtusa.com",
+		"empID": "8072468",
+		"empRole": "Engineer-QA",
+		"Tier": "Tier-4",
+		"empDetails": {
+			"ProgLang": [
+				"Selenium",
+				"Appium",
+				"Soap UI",
+				"Rest Assured API",
+				"UiPath",
+				"Jenkins"
+			],
+			"empIds": [
+				"100",
+				"200",
+				"300",
+				"400",
+				"500"
+			]
+		},
+		"userName": "Dinesh Rajamanickam",
+		"Location": "Chennai CHN( )",
+		"Branch": "Chennai"
+	},"CRISP": {
+    "CareTeamTest": "Y",
+    "TestOrgTwo": "TestOrg",
+    "PopManagerConfig": "Y",
+    "AlertAppConfig": "Y",
+    "TaskManagerConfig": "Y",
+    "TestOrgOne": "GSIHealth",
+    "Url": "https://crisp.gsihealth.com",
+    "TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+    "MultipleDatas": {
+      "ExistingCareTeam": [
+        "GSITESTCTA",
+        "GSITESTCTB"
+      ],
+      "PatientID": [
+        "1078",
+        "1079",
+        "9327"
+      ]
+    },
+    "Power User": "gsi.testing@gsihealth.com",
+    "TestUserIDOne": "dinesh.netaji@gsihealth.com",
+    "sqlIp": "CrispRep01",
+    "PopManagerIframe": "N",
+    "PopManagerSecondWindow": "N",
+    "PopManagerUser": "prabhaharan.velu@gsihealth.com"
+  }
+}
